@@ -5,5 +5,10 @@ format: jb-book
 root: intro
 chapters:
 - file: 五黑时刻
+- url: https://www.baidu.com
+  title: baidu website
 - file: 派克
 - file: 显卡价格
+  sections:
+  - file: AMD显卡价格
+  - file: Nividia
