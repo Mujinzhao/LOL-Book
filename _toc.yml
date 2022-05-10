@@ -7,7 +7,7 @@ parts:
 - caption: LOL合集1
   chapters:
   - file: 五黑时刻
-    title: 五黑时刻
+    title: 五黑时刻黄金
   - file: 派克
     title: 派克
   chapters:
@@ -18,19 +18,6 @@ parts:
 - caption: LOL合集2
   chapters:
   - file: 五黑时刻
-    title: 五黑时刻
-  - file: 派克
-    title: 派克
-- caption: 显卡合集
-  chapters:
-  - file: AMD显卡价格
-    title: AMD显卡价格
-  - file: Nividia
-    title: Nividia显卡价格
-parts:
-- caption: LOL合集3
-  chapters:
-  - file: 五黑时刻
-    title: 五黑时刻
+    title: 五黑时刻黄金
   - file: 派克
     title: 派克
